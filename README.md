@@ -1,1 +1,2 @@
-# pam2_crud
+# PAM2-2-Bimestre
+Aplicativo mobile de cadastro
